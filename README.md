@@ -8,3 +8,5 @@ mvn archetype:generate -DarchetypeGroupId=io.gatling.highcharts -DarchetypeArtif
 ```
 
 ### [2. Executable fat jar](../../compare/01_setup...02_fat_jar)
+
+### [3. Docker image](../../compare/02_fat_jar...03_docker)
